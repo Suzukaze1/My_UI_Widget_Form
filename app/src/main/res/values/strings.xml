@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Component Widget</string>
+    <string name="form_title">Masukan Data Diri Anda</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="input_full_name">Masukan Nama Anda</string>
+    <string name="yes">Iya</string>
+    <string name="no">Tidak</string>
+    <string name="are_you_from_it">Apakah Anda Jurusan IT</string>
+    <string name="program_language">Bahasa Pemograman Yang Dikuasai</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="dart">Dart</string>
+    <string name="java_script">Java Script</string>
+    <string name="c_programing">C</string>
+    <string name="c_plus_plus_programing">C++</string>
+    <string name="c_sharp_programing">C#</string>
+    <string name="php_programing">PHP</string>
+    <string name="todo">TODO</string>
+    <string name="success">Berhasil Menambahkan Data</string>
+</resources>
